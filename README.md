@@ -21,4 +21,3 @@ The project uses **file handling in C** to store account details in a text file 
 
 ---
 
-##  Project Structure
